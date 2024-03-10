@@ -8,7 +8,6 @@ Dockerfile*
 LICENSE
 Procfile
 app-minimal
-assets
 coverage
 node_modules
 test
@@ -43,5 +42,4 @@ vercel.json
 .git/hooks
 
 # rsshub auxiliary files
-lib/radar-rules.js
-lib/v2/**/radar.js
+lib/routes/**/radar.js

@@ -1,5 +1,5 @@
 .DS_Store
-.env
+.env*
 .eslintcache
 .idea
 .log
@@ -14,11 +14,11 @@
 *.iml
 
 app-minimal/
-assets/build/
 coverage
 docs/.vuepress/dist
 node_modules
 tmp
+dist
 
 Session.vim
 combined.log
